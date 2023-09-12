@@ -5,7 +5,6 @@ require "inc/adminauth.php";
 <title>Admin - Pending Articles</title>
 </head>
 
-
 <body id="page-top">
 
     <!-- Page Wrapper -->
